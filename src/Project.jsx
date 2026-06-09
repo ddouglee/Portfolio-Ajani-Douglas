@@ -4,7 +4,7 @@ export default function Project(){
             {/*Project List: */}
             <h1>My Projects</h1>
             <li>
-                <ul><a href="/Team Project Part C.pdf" download="Team Project Part C">
+                <ul><a href="/TeamProjectPart C.pdf" download="Team Project Part C">
                     SRS for Appointment Reminder System</a> 
                         <li>
                             <ul>Role: Lead the project, assigning roles to each member of the team and myself</ul>
