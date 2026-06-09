@@ -1,12 +1,12 @@
 import React from 'react'
 import { Route, Routes } from 'react-router-dom'
 import Home from './components/Home'
-import About from './about'
-import Contact from './contact'
-import Education from './education'
-import Project from './project'
+import About from './src/About'
+import Contact from './src/Contact'
+import Education from './src/Education'
+import Project from './src/project'
 import Layout from './components/Layout'
-import Services from './services'
+import Services from './src/Services'
 const MainRouter = () => {
 return (<div>
 <Layout/>
