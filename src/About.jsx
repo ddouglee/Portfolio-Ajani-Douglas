@@ -3,7 +3,7 @@ return (
 <div> 
 <h1>About Me</h1>
 {/*Picture of Ajani: */}
-<img src="AjaniDouglas.jpeg" alt="a photo of Ajani Douglas" width={108} height={116} style={{ float: 'left', marginRight: '20px' }}></img>
+<img src="/AjaniDouglas.jpeg" alt="a photo of Ajani Douglas" width={108} height={116} style={{ float: 'left', marginRight: '20px' }}></img>
 {/*Paragraph of me: */}
 <p>My name is Ajani Tyler Douglas. I was born on October 8, 2007, currently 18 years old. 
     As of the time of me creating this website, I am currently working on my college diploma at Centennial College, doing the Software Engineering Technician program

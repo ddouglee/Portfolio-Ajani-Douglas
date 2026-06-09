@@ -6,7 +6,7 @@ return (
 {/*Portfolio Heading: */}
 <h1>My Portfolio</h1>
 {/*Logo: */}
-<img src='AJTDLogo.png' alt='My logo' width={100} height={100} style={{ float: 'left', marginRight: '20px' }}></img>
+<img src='/AJTDLogo.png' alt='My logo' width={100} height={100} style={{ float: 'left', marginRight: '20px' }}></img>
 <br /><br /><br />
 {/*Navigation: */}
 <nav>
