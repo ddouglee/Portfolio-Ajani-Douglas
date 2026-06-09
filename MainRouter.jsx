@@ -4,7 +4,7 @@ import Home from './components/Home'
 import About from './src/About'
 import Contact from './src/Contact'
 import Education from './src/Education'
-import Project from './src/project'
+import Project from './src/Project'
 import Layout from './components/Layout'
 import Services from './src/Services'
 const MainRouter = () => {
